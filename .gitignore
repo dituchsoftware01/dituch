@@ -4,6 +4,5 @@ env
 engross_app/__pycache__
 *__pycache__
 Engross_tech/__pycache__
-migrations
 *__pycache__
 *db.sqlite3
